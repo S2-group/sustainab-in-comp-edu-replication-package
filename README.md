@@ -6,6 +6,8 @@ It contains all the material required for replicating the study, including: X, Y
 
 The preprint of the study is available [here](https://arxiv.org/abs/2305.10369).<br> 
 
+For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
+
 ## Repository Structure
 This repo containes the data petaining the selection, demographics and thematic aanalysis of the primary studies discussed in the paper. The directory is structured as follows:
 
