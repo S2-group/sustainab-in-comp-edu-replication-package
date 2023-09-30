@@ -1,6 +1,15 @@
 # Sustainability in Computing Education: A Systematic Literature Review - Replication package
 Replication package for the paper titled: **Sustainability in Computing Education: A Systematic Literature Review - Replication package**
-> Anne-Kathrin Peters (KTH), Rafael Capilla (RJCU), Vlad C. Coroama (RCS), Rogardt Heldal (WNUAP), Patricia Lago (VU Amsterdam), Ola Leifler (LU), Ana Moreira (NUL), Birgit Penzenstadler (CU), Jari Porras (LUT), Colin C. Venters (UH). 2023. Publication venue TBA.
+> Anne-Kathrin Peters (KTH Royal Institute of Technology),
+> Rafael Capilla (Rey Juan Carlos University),
+> Vlad C. Coroama (Roegen Centre for Sustainability),
+> Rogardt Heldal (Western Norway University of Applied Sciences),
+> Patricia Lago (Vrije Universiteit Amsterdam),
+> Ola Leifler (Linköping University),
+> Ana Moreira (NOVA University Lisbon),
+> Birgit Penzenstadler (Chalmers University of Technology),
+> Jari Porras (Lappeenranta-Lahti University of Technology),
+> Colin C. Venters (University of Huddersfield). 2023. Publication venue TBA.
 
 It contains all the material required for replicating the study, including: X, Y, and Z.
 
